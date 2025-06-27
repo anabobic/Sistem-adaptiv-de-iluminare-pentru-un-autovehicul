@@ -1,1 +1,1 @@
-# licenta2025
+# Sistem adaptiv de iluminare pentru un autovehicul
