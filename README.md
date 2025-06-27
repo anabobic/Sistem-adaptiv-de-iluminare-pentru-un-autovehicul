@@ -35,8 +35,5 @@ Structura principală a repository-ului este următoarea:
 4. Se apasă butonul **Run** pentru lansarea simulării
 5. Interfața permite testarea comportamentului adaptiv al sistemului de iluminare în funcție de inputuri simulate precum virajul sau viteza.
 
-- Codul este modular și poate fi extins pentru a integra senzori reali de lumină și unghi.
-- Proiectul este realizat în cadrul lucrării de licență de la Facultatea de Automatică și Calculatoare – UPT.
-
 
 
